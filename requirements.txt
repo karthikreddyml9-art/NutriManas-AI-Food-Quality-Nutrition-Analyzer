@@ -1,0 +1,36 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangGraph / LangChain
+langgraph
+langchain
+langchain-community
+
+# Computer Vision
+ultralytics
+torch
+torchvision
+Pillow
+opencv-python
+numpy
+
+# ML Models
+scikit-learn
+joblib
+
+# Ollama
+ollama
+
+# HTTP / API
+httpx
+aiohttp
+
+# Supabase
+supabase
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
